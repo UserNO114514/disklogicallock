@@ -1,4 +1,4 @@
-# Disk logical lock
+# Disklogicallock 硬碟邏輯鎖（應該說是分區破壞者）
 
 千萬別在實體機打開，無發作症狀，打開程式後重開機分區表報廢
 在Releases有打包好的，不想編譯就在那裡拿，密碼：114514
